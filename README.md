@@ -1,3 +1,3 @@
-# jogbojogbo.github.io
+# more recipes
 
 A community driven recipe website
